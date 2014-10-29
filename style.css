@@ -1,0 +1,38 @@
+body {
+	background: black;
+}
+
+img {
+	margin-left: 5%;
+	height: 85px;
+}
+
+div > div > div {
+	width: 240px;
+	height: 135px;
+	background-image: url('http://www.fillmurray.com/240/135');
+	margin: 0 5px 5px 0;
+	float: left;
+}
+
+.body {
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
+}
+
+.big {
+	width: 485px;
+	height: 275px;
+	background-image: url('http://www.fillmurray.com/485/275');
+}
+
+.box-1,
+.box-2,
+.box-3,
+.box-4{
+	width: 490px;
+	height: 280px;
+	overflow: hidden;
+	float: left;
+}
